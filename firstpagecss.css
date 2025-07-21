@@ -1,0 +1,174 @@
+
+.logo{
+    margin-left: 120px;
+    width: 130px;
+    height: 50px;
+}
+.img{
+    
+    border-radius: 5px;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.task
+{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.taskbut
+{
+padding: 10px 20px;
+background-color: black;
+border-radius: 5px;
+border: none;
+color: white;
+}
+.taskbut:hover{
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+.sub
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.subbut
+{
+padding: 10px 20px;
+background-color: black;
+border-radius: 5px;
+border: none;
+color: white;
+}
+.subbut:hover{
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+.tests
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.testbut
+{
+padding: 10px 20px;
+background-color: black;
+border-radius: 5px;
+border: none;
+color: white;
+}
+.testbut:hover{
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+.featuresbut{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    border: none;
+    align-items: center;
+}
+
+.featuresbut:hover{
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    height: 40px;
+    border: none;
+}
+
+.aboutbut{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    border: none;
+}
+.aboutbut:hover{
+    
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    height: 40px;
+    border: none;
+}
+
+.contactusbut{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    border: none;
+}
+.contactusbut:hover{
+    
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    height: 40px;
+    border: none;
+}
+
+.loginbut{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    border: none;
+}
+.loginbut:hover{
+    
+    
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    height: 40px;
+    border: none;
+}
+
+.signupbut{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    border: none;
+}
+.signupbut:hover{
+    
+    background-color: rgb(56, 55, 55);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    height: 40px;
+    border: none;
+}
